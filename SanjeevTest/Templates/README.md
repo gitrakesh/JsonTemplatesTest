@@ -7,4 +7,15 @@
     <img src="http://armviz.io/visualizebutton.png"/>
 </a>
 
+
+  <a href="https://portal.azure.com/#create/Microsoft.Template/uri/http://github.com/gitrakesh/JsonTemplatesTest/blob/master/SanjeevTest/Templates/WindowsVirtualMachine.json" target="_blank">
+        
+        <img src="http://azuredeploy.net/deploybutton.png" />
+    </a>
+
+
+<a href="http://armviz.io/#/?load=https://github.com/gitrakesh/JsonTemplatesTest/blob/master/SanjeevTest/Templates/WindowsVirtualMachine.json" target="_blank">
+    <img src="http://armviz.io/visualizebutton.png" />
+</a>
+
 This template allows you to deploy a simple Windows VM using a few different options for the Windows version, using the latest patched version. This will deploy a D1 size VM in the resource group location and return the fully qualified domain name of the VM.
