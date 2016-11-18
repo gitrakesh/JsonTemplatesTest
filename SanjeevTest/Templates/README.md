@@ -7,7 +7,9 @@
     <img src="http://armviz.io/visualizebutton.png"/>
 </a>
 <br>
-  <a href="https://portal.azure.com/#create/Microsoft.Template/uri/https://github.com/gitrakesh/JsonTemplatesTest/blob/master/SanjeevTest/Templates/azuredeploy.json" target="_blank">        
+
+
+  <a href="https://portal.azure.com/#create/Microsoft.Template/uri/https://raw.githubusercontent.com/gitrakesh/JsonTemplatesTest/master/SanjeevTest/Templates/azuredeploy.json" target="_blank">        
         <img src="http://azuredeploy.net/deploybutton.png" />
     </a>
 
