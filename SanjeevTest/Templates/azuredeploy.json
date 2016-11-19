@@ -33,6 +33,12 @@
       "metadata": {
         "description": "The Windows version for the VM. This will pick a fully patched image of this given Windows version."
       }
+    },
+    "newParameter": {
+      "type": "bool",
+      "metadata": {
+        "description": "some description goes here."
+      }
     }
   },
   "variables": {
