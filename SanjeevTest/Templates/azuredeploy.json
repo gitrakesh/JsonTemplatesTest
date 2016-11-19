@@ -35,7 +35,7 @@
       }
     },
     "newParameter": {
-      "type": "bool",
+      "type": "array",
       "metadata": {
         "description": "some description goes here."
       }
