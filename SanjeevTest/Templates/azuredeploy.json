@@ -34,8 +34,20 @@
         "description": "The Windows version for the VM. This will pick a fully patched image of this given Windows version."
       }
     },
-    "newParameter": {
+    "newParameter1": {
       "type": "array",
+      "metadata": {
+        "description": "some description goes here."
+      }
+    },
+    "newParameter2": {
+      "type": "int",
+      "metadata": {
+        "description": "some description goes here."
+      }
+    },
+    "newParameter3": {
+      "type": "object",
       "metadata": {
         "description": "some description goes here."
       }

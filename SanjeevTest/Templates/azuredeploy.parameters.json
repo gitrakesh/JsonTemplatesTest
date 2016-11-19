@@ -11,9 +11,14 @@
     "dnsLabelPrefix": {
       "value": "GEN-UNIQUE"
     },
-    "newParameter": {
+    "newParameter1": {
+      "value": "GEN-VALUE"
+    },
+    "newParameter2": {
+      "value": "GEN-VALUE"
+    },
+    "newParameter3": {
       "value": "GEN-VALUE"
     }
-    
   }
 }
