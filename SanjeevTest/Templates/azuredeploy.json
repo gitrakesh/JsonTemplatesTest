@@ -35,7 +35,11 @@
       }
     },
     "newParameter1": {
-      "type": "array",
+      "type": "string",
+      "allowedValues": [
+        "windows",
+        "linux"
+      ],
       "metadata": {
         "description": "some description goes here."
       }
