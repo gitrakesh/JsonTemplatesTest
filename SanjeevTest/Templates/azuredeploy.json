@@ -4,6 +4,8 @@
   "parameters": {
     "adminUsername": {
       "type": "string",
+      "minLength": 6,
+      "maxLength": 24,
       "metadata": {
         "description": "Username for the Virtual Machine."
       }

@@ -38,6 +38,8 @@
     <None Include="Templates\azuredeploy.parameters.json" />
     <None Include="Templates\metadata.json" />
     <None Include="Templates\README.md" />
+    <None Include="Templates\TechCoffeeLab.json" />
+    <None Include="Templates\TechCoffeeLab.param.json" />
   </ItemGroup>
   <Target Name="GetReferenceAssemblyPaths" />
 </Project>
