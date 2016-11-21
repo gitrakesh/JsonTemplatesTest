@@ -42,6 +42,7 @@
     <None Include="Templates\LinkedTemplates\azuredeploy-web.parameters.json" />
     <None Include="Templates\LinkedTemplates\azuredeploy.json" />
     <None Include="Templates\LinkedTemplates\azuredeploy.parameters.json" />
+    <None Include="Templates\LinkedTemplates\README.md" />
     <None Include="Templates\metadata.json" />
     <None Include="Templates\README.md" />
     <None Include="Templates\TechCoffeeLab.json" />
